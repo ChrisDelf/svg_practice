@@ -1,11 +1,9 @@
 import React from 'react';
 
-import '../App.css'
+import '../App.css';
 
 const Example2 = () => {
-
-
-return(
+  return (
 <svg
         className="example2"
         width="985"
@@ -124,7 +122,7 @@ return(
         />
   </svg>
 
-)
-}
+  );
+};
 
-export default Example2
+export default Example2;
